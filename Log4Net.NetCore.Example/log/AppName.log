@@ -1,0 +1,20 @@
+﻿2018-04-22 18:26:45,743 [1] DEBUG Log4Net.NetCore.Example.Program - Id(0) - 11
+2018-04-22 18:26:45,774 [1] DEBUG Log4Net.NetCore.Example.Program - Id(1) - 85
+2018-04-22 18:26:45,777 [1] DEBUG Log4Net.NetCore.Example.Program - Id(2) - 3
+2018-04-22 18:26:45,778 [1] DEBUG Log4Net.NetCore.Example.Program - Id(3) - 88
+2018-04-22 18:26:45,778 [1] DEBUG Log4Net.NetCore.Example.Program - Id(4) - 64
+2018-04-22 18:26:45,778 [1] DEBUG Log4Net.NetCore.Example.Program - Id(5) - 40
+2018-04-22 18:26:45,779 [1] DEBUG Log4Net.NetCore.Example.Program - Id(6) - 85
+2018-04-22 18:26:45,779 [1] DEBUG Log4Net.NetCore.Example.Program - Id(7) - 36
+2018-04-22 18:26:45,779 [1] DEBUG Log4Net.NetCore.Example.Program - Id(8) - 39
+2018-04-22 18:26:45,780 [1] DEBUG Log4Net.NetCore.Example.Program - Id(9) - 40
+2018-04-22 18:26:45,780 [1] WARN  Log4Net.NetCore.Example.Program - TEST WARN
+2018-04-22 18:26:45,782 [1] ERROR Log4Net.NetCore.Example.Program - TEST ERROR
+2018-04-22 18:26:45,787 [1] DEBUG Log4Net.NetCore.Example.Program - 20 / 2 = 10
+2018-04-22 18:26:45,938 [1] ERROR Log4Net.NetCore.Example.Program - Exception - System.Exception: Div by zero
+   at Log4Net.NetCore.Example.Program.<Div>d__10.MoveNext() in D:\Roman\Log4Net.NetCore.Example\Log4Net.NetCore.Example\Program.cs:line 59
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Log4Net.NetCore.Example.Program.<DoProgram>d__9.MoveNext() in D:\Roman\Log4Net.NetCore.Example\Log4Net.NetCore.Example\Program.cs:line 45

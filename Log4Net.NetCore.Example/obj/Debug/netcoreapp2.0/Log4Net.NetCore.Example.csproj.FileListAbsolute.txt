@@ -1,0 +1,11 @@
+D:\Roman\Log4Net.NetCore.Example\Log4Net.NetCore.Example\bin\Debug\netcoreapp2.0\Log4Net.NetCore.Example.deps.json
+D:\Roman\Log4Net.NetCore.Example\Log4Net.NetCore.Example\bin\Debug\netcoreapp2.0\Log4Net.NetCore.Example.runtimeconfig.json
+D:\Roman\Log4Net.NetCore.Example\Log4Net.NetCore.Example\bin\Debug\netcoreapp2.0\Log4Net.NetCore.Example.runtimeconfig.dev.json
+D:\Roman\Log4Net.NetCore.Example\Log4Net.NetCore.Example\bin\Debug\netcoreapp2.0\Log4Net.NetCore.Example.dll
+D:\Roman\Log4Net.NetCore.Example\Log4Net.NetCore.Example\obj\Debug\netcoreapp2.0\Log4Net.NetCore.Example.csprojResolveAssemblyReference.cache
+D:\Roman\Log4Net.NetCore.Example\Log4Net.NetCore.Example\obj\Debug\netcoreapp2.0\Log4Net.NetCore.Example.csproj.CoreCompileInputs.cache
+D:\Roman\Log4Net.NetCore.Example\Log4Net.NetCore.Example\obj\Debug\netcoreapp2.0\Log4Net.NetCore.Example.AssemblyInfoInputs.cache
+D:\Roman\Log4Net.NetCore.Example\Log4Net.NetCore.Example\obj\Debug\netcoreapp2.0\Log4Net.NetCore.Example.AssemblyInfo.cs
+D:\Roman\Log4Net.NetCore.Example\Log4Net.NetCore.Example\bin\Debug\netcoreapp2.0\Log4Net.NetCore.Example.pdb
+D:\Roman\Log4Net.NetCore.Example\Log4Net.NetCore.Example\obj\Debug\netcoreapp2.0\Log4Net.NetCore.Example.dll
+D:\Roman\Log4Net.NetCore.Example\Log4Net.NetCore.Example\obj\Debug\netcoreapp2.0\Log4Net.NetCore.Example.pdb
